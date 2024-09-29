@@ -1,4 +1,4 @@
-import Home from "./pages/home";
+import Home from '../src/pages/Home';
 import Navbar from '../src/components/Navbar';
 import Skills from '../src/pages/Skills';
 import Hobbies from '../src/pages/Hobbies'; 
